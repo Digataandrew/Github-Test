@@ -1,0 +1,5 @@
+For Visual Studio Code:
+    Explorer is just current viewer for code. Whether it be for the GitHub app or local app.
+
+For GitHub Extensions:
+    Click on Plus Tab to commit to changes from Github Repositories instead of locally.
